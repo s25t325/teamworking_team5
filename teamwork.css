@@ -3,3 +3,10 @@ table{
     margin-bottom:20px;
     width:640px;
 }
+th{
+    border:solid 1px #c0c0c0;
+    background-color: #c0c0c0;
+}
+td{
+    border:solid 1px #c0c0c0;
+}
